@@ -756,7 +756,7 @@ bottom: -2px;
     backdrop-filter: blur(10px);
 }
 
-.prt-icon{
+.prt-overlay .prt-icon{
     color: hsl(var(--hue-1),61%, 24%);
     font-size: 1.1rem;
     margin: 0.04rem;
